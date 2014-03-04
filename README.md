@@ -1,8 +1,7 @@
-IIS
-===
+# IIS Testing
 
-IIS Testing
-# IIS Smooth Streaming
+
+## IIS Smooth Streaming
 
 1. [IIS Media Service](http://www.iis.net/media "IIS Media Service") 의 확장중 하나
 2. Silverlight 를 이용한 부드러운 스트리밍(adaptive streaming)
